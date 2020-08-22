@@ -1,0 +1,22 @@
+.Card{
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+    
+}
+
+.Deck-cardarea{
+    margin-top: 80px;
+}
+.Deck-title{
+    color: Purple;
+}
+.button{
+   border: none;
+    background-color: purple;
+    color: forestgreen;
+    width: 30%;
+    height: 35px;
+    border-radius: 5px;
+}
